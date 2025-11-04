@@ -2,10 +2,10 @@
 
 <!-- 🌟 PROFESSIONAL GITHUB PROFILE README: Mikdad -->
 
-<!-- 🔹 Animated Gradient Banner Background -->
+<!-- 🔹 Real Gradient Banner Background -->
 <p align="center">
-  <img src="https://i.ibb.co/8cXgkR2/blue-purple-gradient-tech-banner.gif" 
-       alt="Mikdad Developer Banner" 
+  <img src="https://i.ibb.co/4JNdrBR/modern-gradient-banner.jpg" 
+       alt="Mikdad Developer Gradient Banner" 
        width="100%" 
        style="border-radius:16px; box-shadow:0 0 20px rgba(0,0,0,0.3);" />
 </p>
@@ -27,7 +27,7 @@
 ## 🧠 About Me  
 
 🎯 Focused on crafting smooth, modern, and responsive UIs  
-💡 Love adding animations & details that enhance user experience  
+💡 Love adding animations & small details that enhance user experience  
 🚀 Always improving my design and front-end engineering skills  
 🌍 Based in Bangladesh — collaborating globally 🌐  
 
@@ -52,8 +52,8 @@
 ## 🖼️ Developer Banner  
 
 <p align="center">
-  <img src="https://i.ibb.co/3rvVMB2/dev-dark-banner.gif" 
-       alt="Developer Coding Banner" 
+  <img src="https://i.ibb.co/hM8VmMF/gradient-coding-banner.jpg" 
+       alt="Developer Coding Gradient Banner" 
        width="100%" 
        style="border-radius:18px; box-shadow:0 0 25px rgba(0,0,0,0.4);" />
 </p>
@@ -105,5 +105,3 @@
 
 <!-- END -->
 
-
-<!-- END -->
