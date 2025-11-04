@@ -1,65 +1,91 @@
 # Mikdad-Fahmid313
-Passionate developer | Learning, Building, Sharing  ✨ Code, Coffee &amp; Creativity  👨‍💻 Web Developer | Open Source 
 
-Enthusiast  🌱 Exploring AI &amp; Machine Learning  📚 Always learning new things!
+<!-- 🌟 GITHUB PROFILE README: Mikdad -->
 
-<img width="1280" height="720" alt="banner" src="https://github.com/user-attachments/assets/11605025-b602-47ed-9427-c4dbba5d3525" />
+<h1 align="center">👋 Hey, I'm <span style="color:#4C9AFF;">Mikdad</span></h1>
 
-# 👋 Hi, I'm Mikdad
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind;Passionate+about+UI+Design+and+Animation" alt="Typing SVG" />
+</h3>
 
-🚀 **Frontend Developer** | 💻 React • TypeScript • Tailwind CSS  
-I love building modern, responsive, and beautiful user interfaces that bring ideas to life.
-
----
-
-### 🧠 About Me
-- 🎯 Focused on creating dynamic & mobile-friendly web apps  
-- 🌱 Currently learning: **Next.js** and **Framer Motion**  
-- 💡 Passionate about clean design and smooth user experience  
-- ⚡ Love working with: React, TypeScript, Tailwind, Vite  
+<p align="center">
+💻 <b>Frontend Developer</b> | ⚛️ React • 🌀 TypeScript • 🎨 Tailwind CSS  
+<br />
+🌱 Currently learning <b>Next.js</b> & <b>Framer Motion</b>  
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-💬 Languages: `HTML` • `CSS` • `JavaScript` • `TypeScript`  
-⚛️ Frameworks: `React` • `Next.js`  
-🎨 Styling: `Tailwind CSS` • `Framer Motion`  
-🧰 Tools: `Git` • `Vite` • `VS Code`
+### 🧠 About Me  
+🎯 Focused on creating dynamic, mobile-friendly interfaces  
+💡 Love building elegant UIs with smooth animations  
+🚀 Dreaming to build next-gen digital experiences  
 
 ---
 
-### 🌟 Featured Projects
-🔹 [E-Commerce Website](#) – A modern, dynamic shopping UI built with React & Tailwind  
-🔹 [Portfolio Website](#) – My personal developer portfolio  
-🔹 [Blog App](#) – Responsive blog platform with smooth animations  
+### 🛠️ My Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,git,github,vscode,figma&theme=light" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Mikdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikdadbinmansur&show_icons=true&theme=radical)
+### 🌟 Featured Projects  
+
+🔹 [E-Commerce Website](#) – Dynamic shopping experience built with React + Tailwind  
+🔹 [Portfolio Website](#) – My personal animated portfolio with Framer Motion  
+🔹 [Blog App](#) – Responsive & minimal design with reusable components  
 
 ---
 
-### 📫 Connect with Me
-🌐 [Portfolio Website](#)  
-💼 [LinkedIn](#)  
-📧 mikdad@example.com  
+## 🖼️ Animated Banner
+
+<p align="center">
+  <img src="https://i.ibb.co/VxmYcJd/dev-banner-github.gif" alt="Mikdad Developer Banner" width="100%" style="border-radius:20px;" />
+</p>
+
+> _"Turning ideas into interactive, beautiful web experiences."_
 
 ---
 
-⭐ _“Code with creativity, build with passion.”_
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikdadbinmansur&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikdadbinmansur&theme=tokyonight&hide_border=true" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikdadbinmansur&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-### 🛠 Languages and Tools:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🧩 Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikdadbinmansur&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Portfolio Website](https://yourwebsite.com)
-- [Email](mailto:youremail@gmail.com)
+### 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mikdadbinmansur&theme=tokyonight&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### 💬 Connect With Me  
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mikdad@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ _“Code beautifully, design smartly, and create something awesome every day.”_
