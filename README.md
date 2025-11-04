@@ -52,11 +52,7 @@
 ## 🖼️ Developer Workspace Banner  
 
 <p align="center">
-  <img src="https://i.ibb.co/6nMyyqR/gradient-developer-workspace.jpg" 
-       alt="Developer Workspace Gradient Banner"
-       width="100%"
-       style="border-radius:18px; box-shadow:0 0 25px rgba(0,0,0,0.4); max-height:320px; object-fit:cover;" />
-</p>
+  <img width="924" height="520" alt="banner" src="https://github.com/user-attachments/assets/0f832bb6-daf5-476a-b62b-7dacb51ba9ae" />
 
 > _“Turning ideas into interactive, beautiful web experiences.”_
 
