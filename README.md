@@ -52,7 +52,7 @@
 ## 🖼️ Developer Workspace Banner  
 
 <p align="center">
-  <img width="924" height="520" alt="banner" src="https://github.com/user-attachments/assets/0f832bb6-daf5-476a-b62b-7dacb51ba9ae" />
+  <img width="900" height="400" alt="banner" src="https://github.com/user-attachments/assets/0f832bb6-daf5-476a-b62b-7dacb51ba9ae" />
 
 > _“Turning ideas into interactive, beautiful web experiences.”_
 
