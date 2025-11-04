@@ -2,18 +2,18 @@
 
 <!-- 🌟 PROFESSIONAL GITHUB PROFILE README: Mikdad -->
 
-<!-- 🔹 Real Gradient Banner Background -->
+<!-- 🔹 Gradient Banner (Real & Optimized for GitHub) -->
 <p align="center">
-  <img src="https://i.ibb.co/4JNdrBR/modern-gradient-banner.jpg" 
-       alt="Mikdad Developer Gradient Banner" 
-       width="100%" 
-       style="border-radius:16px; box-shadow:0 0 20px rgba(0,0,0,0.3);" />
+  <img src="https://i.ibb.co/X2whV0t/gradient-tech-banner.jpg" 
+       alt="Mikdad Developer Gradient Banner"
+       width="100%"
+       style="border-radius:16px; box-shadow:0 0 20px rgba(0,0,0,0.4); max-height:300px; object-fit:cover;" />
 </p>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#4C9AFF;">Mikdad</span></h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind;Passionate+about+UI+Design+and+Animation;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind;UI+Design+%26+Animation+Lover;Creating+Modern+Web+Experiences" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -27,9 +27,9 @@
 ## 🧠 About Me  
 
 🎯 Focused on crafting smooth, modern, and responsive UIs  
-💡 Love adding animations & small details that enhance user experience  
-🚀 Always improving my design and front-end engineering skills  
-🌍 Based in Bangladesh — collaborating globally 🌐  
+💡 Passionate about motion, design systems, and performance  
+🚀 Always improving through real projects and collaborations  
+🌍 Based in Bangladesh — building for the web, globally 🌐  
 
 ---
 
@@ -43,19 +43,19 @@
 
 ## 🌟 Featured Projects  
 
-🔹 [E-Commerce Website](#) – Modern UI with cart & filter system  
-🔹 [Portfolio Website](#) – My animated personal developer portfolio  
-🔹 [Blog App](#) – Responsive blog platform built with React + Tailwind  
+🔹 [E-Commerce Website](#) – Dynamic shopping UI with filters & cart  
+🔹 [Portfolio Website](#) – Personal developer portfolio built with Framer Motion  
+🔹 [Blog App](#) – Responsive blog with reusable React components  
 
 ---
 
-## 🖼️ Developer Banner  
+## 🖼️ Developer Workspace Banner  
 
 <p align="center">
-  <img src="https://i.ibb.co/hM8VmMF/gradient-coding-banner.jpg" 
-       alt="Developer Coding Gradient Banner" 
-       width="100%" 
-       style="border-radius:18px; box-shadow:0 0 25px rgba(0,0,0,0.4);" />
+  <img src="https://i.ibb.co/6nMyyqR/gradient-developer-workspace.jpg" 
+       alt="Developer Workspace Gradient Banner"
+       width="100%"
+       style="border-radius:18px; box-shadow:0 0 25px rgba(0,0,0,0.4); max-height:320px; object-fit:cover;" />
 </p>
 
 > _“Turning ideas into interactive, beautiful web experiences.”_
@@ -102,6 +102,3 @@
 ---
 
 ⭐ _“Code beautifully, design smartly, and create something awesome every day.”_
-
-<!-- END -->
-
