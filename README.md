@@ -1,5 +1,7 @@
 # Mikdad-Fahmid313
 Passionate developer | Learning, Building, Sharing  ✨ Code, Coffee &amp; Creativity  👨‍💻 Web Developer | Open Source Enthusiast  🌱 Exploring AI &amp; Machine Learning  📚 Always learning new things!
+<img width="1280" height="720" alt="banner" src="https://github.com/user-attachments/assets/11605025-b602-47ed-9427-c4dbba5d3525" />
+
 # 👋 Hi, I'm Tanvir Rahman!
 
 💻 I'm a passionate *Web Developer* from Bangladesh.  
